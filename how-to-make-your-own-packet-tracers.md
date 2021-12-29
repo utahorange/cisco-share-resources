@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
 4. Begin checking off all the items you want scored
    - can show completion percentage
 5. Copy initial network from answer network
-6. Clear what you want to clear
+6. Clear what you want to clear and/or lock specific items
    - on switch (privileged exec mode)
    ```
    erase startup-config
@@ -33,5 +33,8 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
    
    
 7. Copy-and-paste html of instructions into packet tracer
-8. save-as and troubleshoot/try it out
+8. save-as and troubleshoot/try it out!
+
+## Some more general things
+<img src="https://user-images.githubusercontent.com/86171033/147703257-252628c9-ac7a-4598-841f-2d48746b05a7.png" width="500">
 
