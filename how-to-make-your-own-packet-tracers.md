@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
 
 ## So how?
 1. Create instructions and answer network
+<img src="https://user-images.githubusercontent.com/86171033/147703679-91b5cae0-4d8f-4c0e-bdf0-7e08c45dfae9.jpg" width="400">
+
 3. Extensions -> Activity Wizard and add a password
 4. Begin checking off all the items you want scored
    - can show completion percentage
@@ -38,8 +40,3 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
    
 7. Copy-and-paste html of instructions into packet tracer
 8. save-as and troubleshoot/try it out!
-
-## Some more general things
-<img src="https://user-images.githubusercontent.com/86171033/147703679-91b5cae0-4d8f-4c0e-bdf0-7e08c45dfae9.jpg" width="500">
-
-
