@@ -26,10 +26,12 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
    ```
    erase startup-config
    del vlan.dat
+   reload
    ```
    - on router
    ```
    erase startup-config
+   reload
    ```
    - on pc/server, click on dhcp and back to static in IP Configuration
    
