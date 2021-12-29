@@ -38,5 +38,6 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
 8. save-as and troubleshoot/try it out!
 
 ## Some more general things
-<img src="https://user-images.githubusercontent.com/86171033/147703257-252628c9-ac7a-4598-841f-2d48746b05a7.png" width="500">
+<img src="https://user-images.githubusercontent.com/86171033/147703679-91b5cae0-4d8f-4c0e-bdf0-7e08c45dfae9.jpg" width="500">
+
 
