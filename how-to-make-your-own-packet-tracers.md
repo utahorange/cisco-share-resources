@@ -20,11 +20,12 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
 <img src="https://user-images.githubusercontent.com/86171033/147703679-91b5cae0-4d8f-4c0e-bdf0-7e08c45dfae9.jpg" width="400">
 
 If the cli tab is missing for your routers, switches, go to *Preferences -> Show/Hide* and uncheck a few options.
-3. Extensions -> Activity Wizard and add a password
-4. Begin checking off all the items you want scored
+
+2. Extensions -> Activity Wizard and add a password
+3. Begin checking off all the items you want scored
    - can show completion percentage
-5. Copy initial network from answer network
-6. Clear what you want to clear and/or lock specific items
+4. Copy initial network from answer network
+5. Clear what you want to clear and/or lock specific items
    - on switch (privileged exec mode)
    ```
    erase startup-config
@@ -39,5 +40,5 @@ If the cli tab is missing for your routers, switches, go to *Preferences -> Show
    - on pc/server, click on dhcp and back to static in *IP Configuration*
    
    
-7. Copy-and-paste html of instructions into packet tracer
-8. save-as and troubleshoot/try it out!
+6. Copy-and-paste html of instructions into packet tracer
+7. save-as and troubleshoot/try it out!
