@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
 1. Create instructions and answer network
 <img src="https://user-images.githubusercontent.com/86171033/147703679-91b5cae0-4d8f-4c0e-bdf0-7e08c45dfae9.jpg" width="400">
 
+If the cli tab is missing for your routers, switches, go to *Preferences -> Show/Hide* and uncheck a few options.
 3. Extensions -> Activity Wizard and add a password
 4. Begin checking off all the items you want scored
    - can show completion percentage
@@ -35,7 +36,7 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
    erase startup-config
    reload
    ```
-   - on pc/server, click on dhcp and back to static in IP Configuration
+   - on pc/server, click on dhcp and back to static in *IP Configuration*
    
    
 7. Copy-and-paste html of instructions into packet tracer
