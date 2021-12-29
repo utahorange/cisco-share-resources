@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
 
 ## So how?
 1. Create instructions and answer network
-3. Open Activity Wizard and add a password
+3. Extensions -> Activity Wizard and add a password
 4. Begin checking off all the items you want scored
    - can show completion percentage
 5. Copy initial network from answer network
