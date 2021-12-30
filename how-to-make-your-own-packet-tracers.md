@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=XsKo3_BBCaA
 
 If the cli tab is missing for your routers, switches, go to *Preferences -> Show/Hide* and uncheck a few options.
 
-**DO NOT ** ```DO WR```
+**DO NOT** ```DO WR```
 
 2. Extensions -> Activity Wizard and add a password
 3. Begin checking off all the items you want scored
