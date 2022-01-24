@@ -1,6 +1,8 @@
 # Cyber Resources
 
-
+## Linux
+### linux tips
+not sure if I'm qualified but do more vms, practice your vms, aim for understanding of vulns
 ## cisco
 Cisco resources that are openly shareable according to the rules set out in the competition guidelines, primarily geared towards the national CyberPatriot Competition.
 
