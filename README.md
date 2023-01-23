@@ -1,4 +1,4 @@
-# Cyber Resources
+# Cisco Resources
 ## cisco
 Cisco resources that are openly shareable according to the rules set out in the competition guidelines, primarily geared towards the national CyberPatriot Competition.
 
