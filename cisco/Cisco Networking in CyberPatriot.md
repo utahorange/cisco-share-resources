@@ -23,9 +23,7 @@ Cisco is the name of a company that creates networking devices such as routers, 
 
 Cisco is, in my opinion, the easiest specialty out of Windows and Linux to master, especially in regards to CyberPatriot competition scores. It is however the most intimidating, hardest to get started,  and possibly the most uninteresting, at first. It is because of these facts that it is much easier to get onto good teams by specializing in Cisco than with Windows or Linux. It is also the easiest to get certifications with.
 
-  
-
-Getting Started
+## Getting Started
 
 Getting started in Cisco is easy. Simply do the following:
 
@@ -37,12 +35,11 @@ Getting started in Cisco is easy. Simply do the following:
 
 This is painful and there’s no way to get around it. You just simply have to put in time to read and hold yourself to knowing the content. The actual content tested during competition is limited to only the modules specified, which skips many chapters of the multiple textbooks used in the curriculum. There is also content relevant only to Cisco-proprietary devices, which can sometimes be ignored.
 
-  
-
 ## How the Curriculum is Organized
 
 Netacad is organized into sections known as modules, which generally skip around chapters in a few different textbooks (CCNA Security, ITN Fundamentals, CCNA SRWE, etc…).
 
+For the competition, you really only need to study the assigned modules. That goes for Nationals as well.
   
 
 ## How to Study Long-term
