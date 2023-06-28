@@ -7,4 +7,4 @@ Cisco resources that are openly shareable according to the rules set out in the 
 - practice the pkas on your own, doesn't hurt to review, the skill integration ones are extra nice (especially the ccna one)
 - for extra difficulty, maybe look into making your own Packet Tracer. Here's [something](https://medium.com/@taiyu_chen/make-your-own-packet-tracer-lab-ea07c8f883a) to get you started.
 
-For more detailed tips, see [Cisco Networking in CyberPatriot](/cisco/cisco-networking-in-cypat.md), a little brain dump of strategies I wrote in my free time.
+For more detailed tips, see [Cisco Networking in CyberPatriot](/cisco-networking-in-cypat.md), a little brain dump of strategies I wrote in my free time.
