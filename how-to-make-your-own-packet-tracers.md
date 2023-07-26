@@ -40,7 +40,6 @@ If the cli tab is missing for your routers, switches, go to *Preferences -> Show
    reload
    ```
    - on pc/server, click on dhcp and back to static in *IP Configuration*
-   
-   
+ 
 6. Copy-and-paste html of instructions into packet tracer
 7. save-as and troubleshoot/try it out!
